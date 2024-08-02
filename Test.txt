@@ -1,0 +1,1 @@
+Hello, let`s learn how to use this Git together.
